@@ -1,2 +1,4 @@
-# ignore books text
-books/ 
+/books
+__pycache__/
+*.py[cod]
+*$py.class
